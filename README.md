@@ -1,58 +1,45 @@
-### Hi there, I'm Henil Brijeshbhai Prajapati! 👋
-<br>
+Hi 👋 My name is Henil Brijeshbhai Prajapati
+B.Tech. D2D - Computer Science & Engineering | Full-stack & AI/ML Developer
+I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals. I specialize in building full-stack web applications and have hands-on experience in Machine Learning, Deep Learning, and Natural Language Processing, including work with LLMs and cloud technologies like Docker and Kubernetes. I enjoy working on impactful, AI-driven, cloud-ready projects that solve real-world problems.
 
-<p align="center">
-  <a href="https://github.com/Henil-Prajapati">
-    <img src="https://komarev.com/ghpvc/?username=Henil-Prajapati&color=blue&style=flat-square" alt="Profile views">
-  </a>
+📍 Based in Ahmedabad, Gujarat, India
+
+💻 See my portfolio on GitHub
+
+✉️ You can contact me at henilbprajapati2005@gmail.com
+
+🌱 I’m currently expanding my skill set in cloud engineering by exploring Docker and Kubernetes.
+
+🤝 I’m open to collaborating on interesting, AI-driven, cloud-ready full-stack projects.
+
+Skills
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Machine_Learning-FF5733%3Fstyle%3Dfor-the-badge" alt="Machine Learning"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Deep_Learning-5D3FD3%3Fstyle%3Dfor-the-badge" alt="Deep Learning"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NLP-667BC2%3Fstyle%3Dfor-the-badge" alt="Natural Language Processing"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LLMs-8A2BE2%3Fstyle%3Dfor-the-badge" alt="Large Language Models"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Cloud_Computing-F08080%3Fstyle%3Dfor-the-badge" alt="Cloud Computing"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes"/>
 </p>
 
-## About Me
-[cite_start]I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals like Operating Systems, DBMS, and OOP[cite: 89]. [cite_start]I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on writing clean, efficient, and scalable code[cite: 90]. [cite_start]My experience also includes Machine Learning, Deep Learning, and Natural Language Processing, where I've worked with Transformers, LLMs, and tools like Hugging Face, LangChain, and Gemini LLM to develop intelligent, context-aware systems[cite: 91]. [cite_start]Recently, I've been expanding my skill set in cloud engineering by exploring Docker and Kubernetes[cite: 92]. [cite_start]I enjoy working on impactful, AI-driven, cloud-ready full-stack projects that solve real-world problems[cite: 93].
-
-## My Key Expertise
-> When I code, I rely on these technologies:
-
-<br>
-
-### Languages & Databases
-[cite_start]![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) [cite: 95]
-[cite_start]![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) [cite: 95]
-[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [cite: 95]
-[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [cite: 95]
-[cite_start]![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) [cite: 95]
-[cite_start]![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) [cite: 95]
-[cite_start]![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) [cite: 95]
-
-### Frameworks & Libraries
-[cite_start]![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [cite: 95]
-[cite_start]![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) [cite: 95]
-[cite_start]![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) [cite: 95]
-
-### AI/ML & Cloud
-[cite_start]![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF5733?style=for-the-badge) [cite: 95]
-[cite_start]![Deep Learning](https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge) [cite: 95]
-[cite_start]![NLP](https://img.shields.io/badge/NLP-667BC2?style=for-the-badge) [cite: 95]
-[cite_start]![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge) [cite: 95]
-[cite_start]![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-F08080?style=for-the-badge) [cite: 95]
-[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 95]
-[cite_start]![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) [cite: 95]
-
-<br>
-
----
-
-## My GitHub Stats
-
+My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henil-Prajapati&show_icons=true&theme=dark" alt="Henil's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henil-Prajapati&layout=compact&theme=dark" alt="Top Languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henil-Prajapati&theme=dark" alt="GitHub Streak"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHenil-Prajapati%26show_icons%3Dtrue%26theme%3Ddark" alt="Henil's GitHub Stats"/>
+<br>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHenil-Prajapati%26layout%3Dcompact%26theme%3Ddark" alt="Top Languages"/>
+<br>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHenil-Prajapati%26theme%3Ddark" alt="GitHub Streak"/>
 </p>
 
-## Connect with me
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henil-prajapati) [cite: 156]
-[cite_start][![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/l-Henil-Prajapati14/) [cite: 157]
-[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilbprajapati2005@gmail.com) [cite: 162]
+Connect with me
