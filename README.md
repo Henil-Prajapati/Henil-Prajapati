@@ -6,13 +6,15 @@
     <img src="https://komarev.com/ghpvc/?username=Henil-Prajapati&color=blue&style=flat-square" alt="Profile views">
   </a>
 </p>
+
 ## About Me
-I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals like Operating Systems, DBMS, and OOP[cite: 89]. I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on writing clean, efficient, and scalable code[cite: 90]. My experience also includes Machine Learning, Deep Learning, and Natural Language Processing, where I've worked with Transformers, LLMs, and tools like Hugging Face, LangChain, and Gemini LLM to develop intelligent, context-aware systems[cite: 91]. Recently, I've been expanding my skill set in cloud engineering by exploring Docker and Kubernetes[cite: 92]. I enjoy working on impactful, AI-driven, cloud-ready full-stack projects that solve real-world problems[cite: 93].
+I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals like Operating Systems, DBMS, and OOP[cite: 89]. I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on writing clean, efficient, and scalable code[cite: 90]. My experience also includes Machine Learning, Deep Learning, and Natural Language Processing, where I've worked with Transformers, LLMs, and tools like Hugging Face, LangChain, and Gemini LLM to develop intelligent, context-aware systems[cite: 91]. Recently, I've been expanding my skill set in cloud engineering by exploring Docker and Kubernetes. I enjoy working on impactful, AI-driven, cloud-ready full-stack projects that solve real-world problems[cite: 93].
 
 ## My Key Expertise
 > When I code, I rely on these technologies:
 
 <br>
+
 ### Languages & Databases
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
@@ -28,13 +30,13 @@ I'm a passionate and curious Computer Science student with a strong grasp of cor
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 
 ### AI/ML & Cloud
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF5733?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-667BC2?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-F08080?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF5733?style=for-the-badge) 
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge) 
+![NLP](https://img.shields.io/badge/NLP-667BC2?style=for-the-badge) 
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge) 
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-F08080?style=for-the-badge) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 
 <br>
 
@@ -52,4 +54,4 @@ I'm a passionate and curious Computer Science student with a strong grasp of cor
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henil-prajapati) 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilbprajapati2005@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilbprajapati2005@gmail.com)
