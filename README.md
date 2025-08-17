@@ -1,16 +1,58 @@
-## Hi there 👋
+### Hi there, I'm Henil Brijeshbhai Prajapati! 👋
+<br>
 
-<!--
-**Henil-Prajapati/Henil-Prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Henil-Prajapati">
+    <img src="https://komarev.com/ghpvc/?username=Henil-Prajapati&color=blue&style=flat-square" alt="Profile views">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## About Me
+[cite_start]I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals like Operating Systems, DBMS, and OOP[cite: 89]. [cite_start]I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on writing clean, efficient, and scalable code[cite: 90]. [cite_start]My experience also includes Machine Learning, Deep Learning, and Natural Language Processing, where I've worked with Transformers, LLMs, and tools like Hugging Face, LangChain, and Gemini LLM to develop intelligent, context-aware systems[cite: 91]. [cite_start]Recently, I've been expanding my skill set in cloud engineering by exploring Docker and Kubernetes[cite: 92]. [cite_start]I enjoy working on impactful, AI-driven, cloud-ready full-stack projects that solve real-world problems[cite: 93].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Key Expertise
+> When I code, I rely on these technologies:
+
+<br>
+
+### Languages & Databases
+[cite_start]![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) [cite: 95]
+[cite_start]![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) [cite: 95]
+[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [cite: 95]
+[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [cite: 95]
+[cite_start]![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) [cite: 95]
+[cite_start]![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) [cite: 95]
+[cite_start]![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) [cite: 95]
+
+### Frameworks & Libraries
+[cite_start]![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [cite: 95]
+[cite_start]![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) [cite: 95]
+[cite_start]![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) [cite: 95]
+
+### AI/ML & Cloud
+[cite_start]![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF5733?style=for-the-badge) [cite: 95]
+[cite_start]![Deep Learning](https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge) [cite: 95]
+[cite_start]![NLP](https://img.shields.io/badge/NLP-667BC2?style=for-the-badge) [cite: 95]
+[cite_start]![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge) [cite: 95]
+[cite_start]![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-F08080?style=for-the-badge) [cite: 95]
+[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 95]
+[cite_start]![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) [cite: 95]
+
+<br>
+
+---
+
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Henil-Prajapati&show_icons=true&theme=dark" alt="Henil's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henil-Prajapati&layout=compact&theme=dark" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henil-Prajapati&theme=dark" alt="GitHub Streak"/>
+</p>
+
+## Connect with me
+[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henil-prajapati) [cite: 156]
+[cite_start][![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/l-Henil-Prajapati14/) [cite: 157]
+[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilbprajapati2005@gmail.com) [cite: 162]
