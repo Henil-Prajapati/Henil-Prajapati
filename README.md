@@ -8,7 +8,7 @@
 </p>
 
 ## About Me
-I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals like Operating Systems, DBMS, and OOP[cite: 89]. I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on writing clean, efficient, and scalable code[cite: 90]. My experience also includes Machine Learning, Deep Learning, and Natural Language Processing, where I've worked with Transformers, LLMs, and tools like Hugging Face, LangChain, and Gemini LLM to develop intelligent, context-aware systems[cite: 91]. Recently, I've been expanding my skill set in cloud engineering by exploring Docker and Kubernetes. I enjoy working on impactful, AI-driven, cloud-ready full-stack projects that solve real-world problems[cite: 93].
+I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals like Operating Systems, DBMS, and OOP. I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on writing clean, efficient, and scalable code. My experience also includes Machine Learning, Deep Learning, and Natural Language Processing, where I've worked with Transformers, LLMs, and tools like Hugging Face, LangChain, and Gemini LLM to develop intelligent, context-aware systems. Recently, I've been expanding my skill set in cloud engineering by exploring Docker and Kubernetes. I enjoy working on impactful, AI-driven, cloud-ready full-stack projects that solve real-world problems.
 
 ## My Key Expertise
 > When I code, I rely on these technologies:
