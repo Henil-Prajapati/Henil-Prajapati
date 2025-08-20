@@ -1,9 +1,8 @@
-### Hi there, I'm Henil Brijeshbhai Prajapati! 👋
+### Hi there, I'm Henil Prajapati! 👋
 <br>
 
 <p align="center">
   <a href="https://github.com/Henil-Prajapati">
-    <img src="https://komarev.com/ghpvc/?username=Henil-Prajapati&color=blue&style=flat-square" alt="Profile views">
   </a>
 </p>
 
