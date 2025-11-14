@@ -1,56 +1,78 @@
-### Hi there, I'm Henil Prajapati! 👋
-<br>
+<!-- ========================================================= -->
+<!-- 🔥 FUTURISTIC ANIMATED GITHUB PROFILE README — HENIL P.   -->
+<!-- ========================================================= -->
 
+<!-- Header Title -->
+<h1 align="center">Hi 👋, I'm <span style="color:#8A2BE2">Henil Prajapati</span></h1>
+<h3 align="center">A Passionate AI & Full-Stack Developer from India 🇮🇳</h3>
+
+<!-- Dynamic Coding Boy Section (NEW + PREMIUM) -->
 <p align="center">
-  <a href="https://github.com/Henil-Prajapati">
-  </a>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="310" alt="dynamic coding boy"/>
 </p>
 
-## About Me
-I'm a passionate and curious Computer Science student with a strong grasp of core CS fundamentals like Operating Systems, DBMS, and OOP. I specialize in building full-stack web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on writing clean, efficient, and scalable code. My experience also includes Machine Learning, Deep Learning, and Natural Language Processing, where I've worked with Transformers, LLMs, and tools like Hugging Face, LangChain, and Gemini LLM to develop intelligent, context-aware systems. Recently, I've been expanding my skill set in cloud engineering by exploring Docker and Kubernetes. I enjoy working on impactful, AI-driven, cloud-ready full-stack projects that solve real-world problems.
-
-## My Key Expertise
-> When I code, I rely on these technologies:
-
-<br>
-
-### Languages & Databases
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-### Frameworks & Libraries
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-
-### AI/ML & Cloud
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF5733?style=for-the-badge) 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge) 
-![NLP](https://img.shields.io/badge/NLP-667BC2?style=for-the-badge) 
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge) 
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-F08080?style=for-the-badge) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-
-<br>
 
 ---
 
-## My GitHub Stats
+## 🌟 About Me  
+I’m a passionate Computer Science student with strong fundamentals in **OS, DBMS, OOP, Cloud, AI**, and hands-on expertise in:
 
+- 🧠 **AI, ML, DL, NLP** (Transformers, BERT, LLMs, LangChain, HuggingFace, Gemini)  
+- 🧩 **Full-Stack Development** (React.js, Node.js, Express.js, MongoDB)  
+- ☁️ **Cloud & DevOps** (Docker, Kubernetes, Cloud-ready apps)  
+- 🔐 **Backend Systems** (JWT, Auth, REST APIs, scalable architecture)  
+- 🤖 **AI Agents** (n8n automation workflows)  
+
+💡 My goal is to build **smart, scalable, and impactful AI-driven products**.
+
+---
+
+## 🌐 Connect With Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henil-Prajapati&show_icons=true&theme=dark" alt="Henil's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henil-Prajapati&layout=compact&theme=dark" alt="Top Languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henil-Prajapati&theme=dark" alt="GitHub Streak"/>
+  <a href="https://www.linkedin.com/in/henil-prajapati14/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:henilbprajapati2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Henil-Prajapati"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/I-Henil-Prajapati14/"><img src="https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henil-prajapati14/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilbprajapati2005@gmail.com)
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,postgres,redis,fastapi,tailwind,docker,kubernetes,git,github,linux,aws,vscode&perline=10" />
+</p>
+
+---
+
+## 🔥 GitHub Stats  
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henil-Prajapati&show_icons=true&theme=midnight-purple&border_radius=10"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henil-Prajapati&theme=midnight-purple&border_radius=10"/>
+  <br><br>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henil-Prajapati&layout=compact&theme=midnight-purple&border_radius=10"/>
+</p>
+
+---
+
+
+## 🚀 Featured Projects  
+### 🔹 AI Recruiter – AI Interview & Evaluation System  
+- Voice-agent interviewing (Vapi API)  
+- Resume parsing, JD matching, scoring  
+- Google OAuth + Supabase  
+- Real-time dashboards  
+
+### 🔹 RevSense – Review Intelligence System  
+- Daily automated scraping (Twitter, PlayStore, MouthShut)  
+- NLP + Sentence-BERT + Gemini LLM summarization  
+- FastAPI backend, Redis vector storage  
+
+### 🔹 VeeServe – Full-Stack Service Booking Platform  
+- Real-time bookings, authentication, admin dashboard  
+
+---
+
+## ✨ Final Touch  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Keep+Learning.+Keep+Building.+Keep+Growing+🚀" />
+</p>
